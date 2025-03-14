@@ -1,34 +1,34 @@
 name,ring,quadrant,isNew,description
-Elasticsearch,Adopt,techniques,FALSE,"описание"
-MySQL,Hold,techniques,FALSE,"описание"
-PerconaDB,Adopt,techniques,FALSE,"описание"
-PostgreSQL,Adopt,techniques,FALSE,"описание"
-gRPC,Adopt,techniques,FALSE,"описание"
-Tarantool Data Grid,Trial,techniques,TRUE,"описание"
-Vue.js,Adopt,tools,FALSE,"описание"
-Nuxt.js,Trial,tools,FALSE,"описание"
-Ant Design,Assess,tools,TRUE,"описание"
-Symfony,Adopt,tools,FALSE,"описание"
-Krakend,Adopt,tools,FALSE,"описание"
-Golang,Adopt,languages & frameworks,FALSE,"описание"
-PHP,Adopt,languages & frameworks,FALSE,"описание"
-Typescript,Trial,languages & frameworks,TRUE,"описание"
-Javascript,Adopt,languages & frameworks,FALSE,"описание"
-Swift,Adopt,languages & frameworks,TRUE,"описание"
-Kotlin,Adopt,languages & frameworks,TRUE,"описание"
-HAProxy,Adopt,platforms,FALSE,"описание"
-Kafka,Trial,platforms,FALSE,"описание"
-KeepAliveD,Adopt,platforms,FALSE,"описание"
-Kibana,Adopt,platforms,FALSE,"описание"
-Docker,Trial,platforms,FALSE,"описание"
-Logstash,Adopt,platforms,FALSE,"описание"
-Nginx,Adopt,platforms,FALSE,"описание"
-Consul,Adopt,platforms,FALSE,"описание"
-RabbitMQ,Adopt,platforms,FALSE,"описание"
-Grafana,Adopt,platforms,FALSE,"описание"
-Prometheus,Adopt,platforms,FALSE,"описание"
-NATS,Trial,platforms,FALSE,"описание"
-Sentry,Trial,platforms,TRUE,"описание"
-AppDynamics,Trial,platforms,FALSE,"описание"
-Memcached,Adopt,techniques,FALSE,"описание"
-Redis,Assess,techniques,FALSE,"описание"
+Elasticsearch,Adopt,techniques,FALSE,
+MySQL,Hold,techniques,FALSE,
+PerconaDB,Adopt,techniques,FALSE,
+PostgreSQL,Adopt,techniques,FALSE,
+gRPC,Adopt,techniques,FALSE,
+Tarantool Data Grid,Trial,techniques,TRUE,
+Vue.js,Adopt,tools,FALSE,
+Nuxt.js,Trial,tools,FALSE,
+Ant Design,Assess,tools,TRUE,
+Symfony,Adopt,tools,FALSE,
+Krakend,Adopt,tools,FALSE,
+Golang,Adopt,languages & frameworks,FALSE,
+PHP,Adopt,languages & frameworks,FALSE,
+Typescript,Trial,languages & frameworks,TRUE,
+Javascript,Adopt,languages & frameworks,FALSE,
+Swift,Adopt,languages & frameworks,TRUE,
+Kotlin,Adopt,languages & frameworks,TRUE,
+HAProxy,Adopt,platforms,FALSE,
+Kafka,Trial,platforms,FALSE,
+KeepAliveD,Adopt,platforms,FALSE,
+Kibana,Adopt,platforms,FALSE,
+Docker,Trial,platforms,FALSE,
+Logstash,Adopt,platforms,FALSE,
+Nginx,Adopt,platforms,FALSE,
+Consul,Adopt,platforms,FALSE,
+RabbitMQ,Adopt,platforms,FALSE,
+Grafana,Adopt,platforms,FALSE,
+Prometheus,Adopt,platforms,FALSE,
+NATS,Trial,platforms,FALSE,
+Sentry,Trial,platforms,TRUE,
+AppDynamics,Trial,platforms,FALSE,
+Memcached,Adopt,techniques,FALSE,
+Redis,Assess,techniques,FALSE,
