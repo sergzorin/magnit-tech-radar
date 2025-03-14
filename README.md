@@ -1,1 +1,8 @@
 # tech-radar
+
+
+"Свои" квадранты заменены на стандартные 
+
+Теперь их можно "подсунуть" BYOR online:
+
+*  [Технологический радар команды дата аналитики](https://radar.thoughtworks.com/?documentId=https%3A%2F%2Fraw.githubusercontent.com%2Fsergzorin%2Fmagnit-tech-radar%2Frefs%2Fheads%2Fmaster%2F%25D0%25A2%25D0%25B5%25D1%2585%25D0%25BD%25D0%25BE%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25B8%25D1%2587%25D0%25B5%25D1%2581%25D0%25BA%25D0%25B8%25D0%25B9%2520%25D1%2580%25D0%25B0%25D0%25B4%25D0%25B0%25D1%2580%2520%25D0%25BA%25D0%25BE%25D0%25BC%25D0%25B0%25D0%25BD%25D0%25B4%25D1%258B%2520%25D0%25B4%25D0%25B0%25D1%2582%25D0%25B0%2520%25D0%25B0%25D0%25BD%25D0%25B0%25D0%25BB%25D0%25B8%25D1%2582%25D0%25B8%25D0%25BA%25D0%25B8.csv)
