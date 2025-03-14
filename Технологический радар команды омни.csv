@@ -1,34 +1,34 @@
 name,ring,quadrant,isNew,description
-Elasticsearch,Adopt,data management,FALSE,
-MySQL,Hold,data management,FALSE,
-PerconaDB,Adopt,data management,FALSE,
-PostgreSQL,Adopt,data management,FALSE,
-gRPC,Adopt,data management,FALSE,
-Tarantool Data Grid,Trial,data management,TRUE,
-Vue.js,Adopt,frameworks & libraries,FALSE,
-Nuxt.js,Trial,frameworks & libraries,FALSE,
-Ant Design,Assess,frameworks & libraries,TRUE,
-Symfony,Adopt,frameworks & libraries,FALSE,
-Krakend,Adopt,frameworks & libraries,FALSE,
-Golang,Adopt,languages,FALSE,
-PHP,Adopt,languages,FALSE,
-Typescript,Trial,languages,TRUE,
-Javascript,Adopt,languages,FALSE,
-Swift,Adopt,languages,TRUE,
-Kotlin,Adopt,languages,TRUE,
-HAProxy,Adopt,platform & infrastructure,FALSE,
-Kafka,Trial,platform & infrastructure,FALSE,
-KeepAliveD,Adopt,platform & infrastructure,FALSE,
-Kibana,Adopt,platform & infrastructure,FALSE,
-Docker,Trial,platform & infrastructure,FALSE,
-Logstash,Adopt,platform & infrastructure,FALSE,
-Nginx,Adopt,platform & infrastructure,FALSE,
-Consul,Adopt,platform & infrastructure,FALSE,
-RabbitMQ,Adopt,platform & infrastructure,FALSE,
-Grafana,Adopt,platform & infrastructure,FALSE,
-Prometheus,Adopt,platform & infrastructure,FALSE,
-NATS,Trial,platform & infrastructure,FALSE,
-Sentry,Trial,platform & infrastructure,TRUE,
-AppDynamics,Trial,platform & infrastructure,FALSE,
-Memcached,Adopt,data management,FALSE,
-Redis,Assess,data management,FALSE,
+Elasticsearch,Adopt,data management,FALSE,"описание"
+MySQL,Hold,data management,FALSE,"описание"
+PerconaDB,Adopt,data management,FALSE,"описание"
+PostgreSQL,Adopt,data management,FALSE,"описание"
+gRPC,Adopt,data management,FALSE,"описание"
+Tarantool Data Grid,Trial,data management,TRUE,"описание"
+Vue.js,Adopt,frameworks & libraries,FALSE,"описание"
+Nuxt.js,Trial,frameworks & libraries,FALSE,"описание"
+Ant Design,Assess,frameworks & libraries,TRUE,"описание"
+Symfony,Adopt,frameworks & libraries,FALSE,"описание"
+Krakend,Adopt,frameworks & libraries,FALSE,"описание"
+Golang,Adopt,languages,FALSE,"описание"
+PHP,Adopt,languages,FALSE,"описание"
+Typescript,Trial,languages,TRUE,"описание"
+Javascript,Adopt,languages,FALSE,"описание"
+Swift,Adopt,languages,TRUE,"описание"
+Kotlin,Adopt,languages,TRUE,"описание"
+HAProxy,Adopt,platform & infrastructure,FALSE,"описание"
+Kafka,Trial,platform & infrastructure,FALSE,"описание"
+KeepAliveD,Adopt,platform & infrastructure,FALSE,"описание"
+Kibana,Adopt,platform & infrastructure,FALSE,"описание"
+Docker,Trial,platform & infrastructure,FALSE,"описание"
+Logstash,Adopt,platform & infrastructure,FALSE,"описание"
+Nginx,Adopt,platform & infrastructure,FALSE,"описание"
+Consul,Adopt,platform & infrastructure,FALSE,"описание"
+RabbitMQ,Adopt,platform & infrastructure,FALSE,"описание"
+Grafana,Adopt,platform & infrastructure,FALSE,"описание"
+Prometheus,Adopt,platform & infrastructure,FALSE,"описание"
+NATS,Trial,platform & infrastructure,FALSE,"описание"
+Sentry,Trial,platform & infrastructure,TRUE,"описание"
+AppDynamics,Trial,platform & infrastructure,FALSE,"описание"
+Memcached,Adopt,data management,FALSE,"описание"
+Redis,Assess,data management,FALSE,"описание"
